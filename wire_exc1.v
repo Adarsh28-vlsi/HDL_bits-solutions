@@ -13,3 +13,5 @@ module top_module(
     assign z = c;
 
 endmodule
+// concatenation 
+// assign {w,x,y,z} = {a,b,b,c};
